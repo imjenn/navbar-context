@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 60px;
+    color: white;
+    font-size: 25pt;
+    width: auto;
+}
+
+.name {
+    height: 25px;
+    width: 20%;
+    margin-left: 10px;
+    background-color: whitesmoke;
+    border: 1px solid grey;
+    border-radius: 3px;
+}
+
+form {
+    margin: 20px 0;
+    padding-top: 20px;
+}
+
+label {
+    margin-left: 30%;
+    font-size: 18pt;
+}
